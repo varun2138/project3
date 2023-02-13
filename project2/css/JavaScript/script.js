@@ -1,0 +1,1 @@
+console.log("this is first staage of javascript")
